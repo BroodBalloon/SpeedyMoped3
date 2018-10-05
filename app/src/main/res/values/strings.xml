@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpeedyMoped3</string>
+    <string name="chat">Chat</string>
+    <string name="meetups">Meetups</string>
+    <string name="market">Market</string>
+    <string name="next_up">Next Up</string>
+    <string name="coming_up">coming up</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
